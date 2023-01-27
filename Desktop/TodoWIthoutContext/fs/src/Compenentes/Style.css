@@ -1,0 +1,30 @@
+
+.text{
+    color: rgb(158, 4, 4)
+}
+body{
+    background-image: url(maroc.jpg)
+    
+}
+#btn{
+    background-color: rgb(168, 37, 20);
+    color: wheat;
+}
+#done{
+    background-color: green;
+    color: white;
+}
+#sup{
+    background-color: rgb(158, 4, 4);
+    color: white;
+}
+#en{
+    border: 0.5 solid rgb(158, 4, 4) ;
+    border-radius:10px ;
+}
+ul li{
+    list-style: none;
+}
+h1{
+    color:green; ;
+}
